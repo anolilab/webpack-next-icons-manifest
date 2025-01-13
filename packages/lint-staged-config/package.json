@@ -81,8 +81,8 @@
         "test:coverage": "vitest --config ./vitest.config.ts --run --coverage"
     },
     "dependencies": {
-        "@visulima/fs": "2.3.5",
-        "@visulima/package": "^3.4.2",
+        "@visulima/fs": "2.3.6",
+        "@visulima/package": "^3.4.3",
         "shell-quote": "^1.8.2"
     },
     "devDependencies": {

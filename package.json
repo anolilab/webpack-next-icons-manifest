@@ -114,7 +114,7 @@
         "nx": "20.3.1",
         "postcss": "^8.4.49",
         "prettier": "^3.4.2",
-        "publint": "^0.3.1",
+        "publint": "^0.3.2",
         "read-pkg": "^9.0.1",
         "rimraf": "^6.0.1",
         "secretlint": "9.0.0",
@@ -126,7 +126,7 @@
         "typescript": "5.7.3",
         "vitest": "^2.1.8"
     },
-    "packageManager": "pnpm@9.15.0",
+    "packageManager": "pnpm@9.15.3",
     "engines": {
         "node": ">=18.* <=23.*"
     },
